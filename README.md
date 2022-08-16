@@ -1,3 +1,3 @@
 ##VIARONET
 
-Prueba de conocmiento.
+Prueba de conocimiento.
